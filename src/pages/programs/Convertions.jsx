@@ -19,7 +19,7 @@ function Convertions() {
 
 	return (
 		<div>
-			<h1 className="font-bold uppercase">Body Mass Index</h1>
+			<h1 className="font-bold uppercase">Convertions</h1>
 			<div className="mt-4">
 				<div className="flex items-center justify-between mb-2">
 					<label htmlFor="value" className="w-2/5 text-sm">
